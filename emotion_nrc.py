@@ -6,7 +6,7 @@ import nltk
 nltk.download('punkt')
 
 # Load Excel file
-file_path = r"C:\\path\\exit_data_sentiments.xlsx"  # Update path as needed
+file_path = r"C:\path\exit_data_sentiments.xlsx"  # Update path as needed
 sheet_name = "sheet1"
 
 # Read the Excel sheet
