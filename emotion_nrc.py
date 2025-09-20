@@ -14,8 +14,8 @@ df = pd.read_excel(file_path, sheet_name=sheet_name)
 
 # Define columns for sentiment analysis
 sentiment_columns = [
-    "CAMPUS_ENVIRONMENTCOMMENT",
-    "EXPLAIN_DETAIL",
+    "CAMPUS_ENVIRONMENT",
+    "MORE_DETAILS",
     "RESIDENCE_HALLS",
     "DINING_SERVICES",
     "SOCIAL_LIFE",
